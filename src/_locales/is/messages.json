@@ -231,7 +231,7 @@
     "message": "Sýna þýddan texta þegar sveimað er yfir á þessum síðum"
   },
   "popupBlueWhenSiteIsTranslated": {
-    "message": "Gerðu sprettimerkið blátt þegar síðan er þýdd"
+    "message": "Gera sprettimerkið blátt þegar síðan er þýdd"
   },
   "more": {
     "message": "Meira"
@@ -366,7 +366,7 @@
     "message": "Endurheimta síðu til upprunalegu"
   },
   "lblTranslatePageToTargetLanguage": {
-    "message": "Þýða síðuna yfir á markmálið"
+    "message": "Þýða síðuna yfir á marktungumálið"
   },
   "lblTranslateTag_pre": {
     "message": "Virkja þýðingu fyrir merkið $HTML_TAG_NAME$",
